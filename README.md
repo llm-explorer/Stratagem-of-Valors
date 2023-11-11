@@ -32,3 +32,7 @@ After I got the game working to the required degree, I asked it to create the sp
 
 This was a process I wouldn't want to repeat from scratch! I found it very frustrating and the code it produces, while servicable, is full of redundancy (due to its forgetfulness) and is sub-optimal in terms of performance. However, that said, I was constantly amazed that I could say "this doesn't work because..." and it would just give me a completely new Kotlin function which just worked when I dropped it in over the old version.
 
+Please note that I did not ask it to optimise anything. The computer opponent is very slow as there is no branch optimisation or pruning! Also note that there are many places where it wrote new code where it could have just reused an existing function - this, despite me being able to punch the entire file to it for examination.
+
+However, given the limitations, quirks and frustrations, it's still a marvellous example of what can currently be done. Much of the frustration was balanced out by being able to get answers to programming questions without having to spend hours on StackOverflow looking through diverse and at times contradictory comments.
+
