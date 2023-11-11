@@ -2,7 +2,7 @@
 
 # Stratagem-of-Valors
 
-![Screenshot1](images/screenshot-small.png) ![Screenshot2](images/screenshot-small-2.png) ![Screenshot3](images/screenshot-small-3.png)
+![Screenshot1](images/screenshot-small.png) ![Screenshot2](images/screenshot-small-2.png) ![Screenshot3](images/screenshot-small-4.png)
 
 A strategy board game designed and coded by GPT-4. 
 
