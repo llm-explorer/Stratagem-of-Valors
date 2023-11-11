@@ -22,7 +22,7 @@ I then asked GPT-4 to create icons for the game using its python programming cap
 We the proceeded to add the code. First I got GPT-4 to add all the code for drawing the UI and handling human interaction. I then asked it to create a computer controlled opponent. This required a minimax algorithm and a heap of code to analyse the board positions and moves. It didn't work straight out of the box and required one or two minor tweaks (it was very close though!)
 
 
-I spent three days cajolling GPT-4 to write the code. This was a process akin to herding cats while pulling teeth. I tried to minimise my interventions. Most of the code I added was a few lines here and there to do things that took me a few minutes but would have taken 30 minutes or more to get GPT-4 to insert with much tooing and froing to do so.
+I spent three days cajolling GPT-4 to write the code. This was a process akin to herding cats while pulling teeth. I tried to minimise my interventions. Most of the code I added was a few lines here and there to do things that took me a few minutes but would have taken 30 minutes or more to get GPT-4 to insert with much toing and froing to do so.
 
 
 After I got the game working to the required degree, I asked it to create the splash screen in Dalle-3.
