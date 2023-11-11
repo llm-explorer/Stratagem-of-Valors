@@ -13,7 +13,7 @@ I asked GPT-4 to design some kind of board game. It suggested a game on an 8x8 b
 I then asked GPT to write the rules for this game. It created a fairly detailed set of rules which I left fairly much unaltered (the only thing I subsequently asked it to change was the distance the Cannon pieces could fire as initially they could hit the enemy in the initial board configuration). The rules may be seen in this PDF: [Link to PDF](/images/Rules.pdf)
 
 
-Once we had the rules I created a blank Android Studio project and asked it for an initial skeleton version of the Kotlin / Jetpack Compose code in one file. I should point out that all of the code was created in one file. I've tried creating a GPT-4 game before using standard project layouts, but that ended in disaster - GPT forgets things and it is cumbersome to continually send it zip files of the code.
+Once we had the rules I created a blank Android Studio project and asked it for an initial skeleton version of the Kotlin / Jetpack Compose code in one file. I should point out that all of the code was initially created in one file; as we progressed and finalised functions I moved them to a separate file. I've tried creating a GPT-4 game before using standard project layouts, but that ended in disaster - GPT forgets things and it is cumbersome to continually send it zip files of the code.
 
 
 I then asked GPT-4 to create icons for the game using its python programming capabilities. Dalle-3 would not be the right choice - the icons needed to be flat and with a limited colour range. Results from Dalle-3 were inconsistant across the range of icons and did not produce good flat icons.
