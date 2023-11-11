@@ -2,7 +2,9 @@
 
 # Stratagem-of-Valors
 
-A strategy board game designed and coded by GPT-4. ![Board Setup](images/screenshot-small.png)
+![Screenshot1](images/screenshot-small.png)![Screenshot2](images/screenshot-2.png)![Screenshot3](images/screenshot-3.png)
+
+A strategy board game designed and coded by GPT-4. 
 
 
 I asked GPT-4 to design some kind of board game. It suggested a game on an 8x8 board called "Stratagem of the Valors" with pieces that can be moved in various ways plus the ability of some of the pieces to fire at enemy pieces over a set range. It named the pieces itself. I also asked it to create a diagram of the board positions:
