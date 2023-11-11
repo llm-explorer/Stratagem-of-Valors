@@ -1,4 +1,4 @@
-images/splash-banner.png
+/images/splash-banner.png
 
 # Stratagem-of-Valors
 
