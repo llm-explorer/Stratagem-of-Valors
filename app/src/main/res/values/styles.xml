@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application theme. -->
+
+    <!-- Theme for the splash screen -->
+<!--    <style name="Theme.Valors.SplashScreen" parent="Theme.SplashScreen">-->
+<!--        &lt;!&ndash; Customize your splash screen theme here &ndash;&gt;-->
+<!--        &lt;!&ndash; Use a drawable for the splash screen background &ndash;&gt;-->
+<!--        <item name="windowSplashScreenBackground">@android:color/transparent</item>-->
+<!--        &lt;!&ndash; Define the duration of the splash screen icon animation &ndash;&gt;-->
+<!--        <item name="windowSplashScreenAnimationDuration">0</item>-->
+<!--        &lt;!&ndash; Hide the status bar on the splash screen &ndash;&gt;-->
+<!--        <item name="android:statusBarColor">@android:color/transparent</item>-->
+<!--        <item name="android:windowFullscreen">true</item>-->
+<!--        &lt;!&ndash; Hide the navigation bar on the splash screen &ndash;&gt;-->
+<!--        <item name="android:navigationBarColor">@android:color/transparent</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.Valors.MainTheme</item>-->
+<!--    </style>-->
+
+    <!-- Theme to apply to your app after the splash screen goes away -->
+    <style name="Theme.Valors.MainTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <!-- Your regular theme definitions -->
+    </style>
+
+    <style name="Theme.RemoveSplashScreenTheme" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
