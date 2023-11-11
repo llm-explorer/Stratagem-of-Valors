@@ -1,4 +1,4 @@
-(/images/splash-banner.png)
+![banner](/images/splash-banner.png)
 
 # Stratagem-of-Valors
 
