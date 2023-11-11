@@ -27,6 +27,8 @@ I spent three days cajolling GPT-4 to write the code. This was a process akin to
 
 After I got the game working to the required degree, I asked it to create the splash screen in Dalle-3.
 
+You can see nearly all of my cenversations in two parts: [Conversation Part 1](/images/conversation-part-1.txt) and [Conversation Part 2](/images/conversation-part-2.txt)
+
 
 # Thoughts
 
